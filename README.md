@@ -9,5 +9,5 @@ Step 3: download aws CLI to your desktop, type "aws configure" and enter that us
 Step 4: copy script from "AutoInvalidate.bat" into a text file.  Replace needed parts, save AutoInvalidate.bat
 Step 5: For added spice, create a shortcut, right click, properties, shortcut, change icon, replace icon with GenieSolos.ico
 
-
+Bonus: Give me a follow at twitter.com/geniesolosaws
 in my scripts a <> means you do not have to rewrite the <> when you replace them... IE  a <insert ip> means 10.10.10.10 NOT <10.10.10.10>
